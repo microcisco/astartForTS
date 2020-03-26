@@ -42,7 +42,7 @@
 ![avatar](https://github.com/microcisco/astartForTS/blob/master/1.png)
 
 
-![avatar](https://github.com/microcisco/astartForTS/blob/master/2.png
+![avatar](https://github.com/microcisco/astartForTS/blob/master/2.png)
 
 
 ---
