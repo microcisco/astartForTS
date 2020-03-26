@@ -6,9 +6,12 @@
 所以我就赶紧加班写了一个ts版本的，话说ts确实好使啊。本项目ccc版本用的是2.2.2版本，由于是重写所以脚本效率做了进一步
 的优化，然后就是使用方法做了进一步的简化，将地图节点和障碍物节点分别拖入即可然后程序会自行识别，还有就是加了一个工具方法
 方便转换坐标转换
+![avatar](https://github.com/microcisco/astartForTS/blob/master/563.gif)
 ```
 - 快速使用
 ```$xslt
+![avatar](https://github.com/microcisco/astartForTS/blob/master/1.png)
+![avatar](https://github.com/microcisco/astartForTS/blob/master/2.png)
     private customGenerateLogicMap() {
         let mapData = AutoFindPath.formatToMapData(this.map, this.map.children[0].width);
         let autoFindPath = new AutoFindPath(mapData);
