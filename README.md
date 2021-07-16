@@ -1,5 +1,9 @@
 # A星寻路算法TS版本
 ***
+##  最近更新
++ 新增了JPS（跳点寻路），欢迎大家提issue
+https://github.com/microcisco/jpsFindPath
+---
 - 简介
 ```$xslt
 今年由于疫情比较严重公司放了好多天假所以好久没上git了，最近上了一下git发现有issue提出想要ts版本
